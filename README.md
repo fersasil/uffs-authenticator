@@ -1,5 +1,5 @@
 # To use it you should install node and npm!
-## Istall all dependencies using: 
+## Install all dependencies using: 
 
 ``` bash
 npm install
