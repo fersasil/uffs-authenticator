@@ -1,0 +1,18 @@
+{
+  "name": "auth-uffs",
+  "version": "1.0.0",
+  "description": "A simple endpoint to handle third party applications to authenticate with idUffs and password",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fersasil",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
